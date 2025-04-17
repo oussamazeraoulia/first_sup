@@ -7,7 +7,7 @@ export default async function Instruments() {
 
   return (
   <div>
-    <h1 style={{fontSize:'36px'}}>Hello Oussama</h1>
+    <h1 style={{fontSize:'36px'}}>Hello Moussa</h1>
     <pre>{JSON.stringify(instruments, null, 2)}</pre>
   </div>
   )
